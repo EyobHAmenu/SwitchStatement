@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9faa8187-03cb-4eb5-b1ab-52f9c4c611da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ComparingStrings/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComparingStrings/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComparingStrings/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComparingStrings/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComparingStrings/ComparingStrings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComparingStrings/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComparingStrings/src/CompStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DictionaryWord/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DictionaryWord/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DictionaryWord/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DictionaryWord/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DictionaryWord/DictionaryWord.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DictionaryWord/src/bubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FixError/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FixError/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FixError/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FixError/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FixError/FixError.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FixError/src/Debug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingandStoring/GettingandStoring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingandStoring/src/getStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InputOutput/InputOutput.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InputOutput/src/Ask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReplaceCommonWord/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReplaceCommonWord/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReplaceCommonWord/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReplaceCommonWord/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReplaceCommonWord/ReplaceCommonWord.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReplaceCommonWord/src/replaceWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringAssignment/StringAssignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringAssignment/src/StrAssi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SwitchStatment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TeastScores/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TeastScores/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TeastScores/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TeastScores/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TeastScores/TeastScores.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TeastScores/src/testScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsingSubstring/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsingSubstring/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsingSubstring/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsingSubstring/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsingSubstring/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsingSubstring/UsingSubstring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsingSubstring/out/production/UsingSubstring/SubString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsingSubstring/src/SubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhatIfCompletionActivity/WhatIfCompletionActivity.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhatIfCompletionActivity/src/PairProcess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Complet_If" beforeDir="false" afterPath="$PROJECT_DIR$/../Complet_If" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CreatApp" beforeDir="false" afterPath="$PROJECT_DIR$/../CreatApp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DebugArray/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DebugArray/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessGame/out/production/GuessGame/guessGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GuessGame/out/production/GuessGame/guessGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessGame/src/guessGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GuessGame/src/guessGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Positive_Negative" beforeDir="false" afterPath="$PROJECT_DIR$/../Positive_Negative" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myfirstjava" beforeDir="false" afterPath="$PROJECT_DIR$/../myfirstjava" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1arcKQeWGbnvLTmlnCv84skxzgQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Switch" />
+      <module name="SwitchStatment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Switch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9faa8187-03cb-4eb5-b1ab-52f9c4c611da" name="Default Changelist" comment="" />
+      <created>1587497088943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587497088943</updated>
+      <workItem from="1587497090333" duration="1767000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1358" height="217" key="GridCell.Tab.0.bottom" timestamp="1587498455141">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="217" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1587498455141" />
+    <state width="1358" height="217" key="GridCell.Tab.0.center" timestamp="1587498455137">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="217" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1587498455137" />
+    <state width="1358" height="217" key="GridCell.Tab.0.left" timestamp="1587498455136">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="217" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1587498455136" />
+    <state width="1358" height="217" key="GridCell.Tab.0.right" timestamp="1587498455138">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="217" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1587498455138" />
+  </component>
+</project>
